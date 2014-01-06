@@ -1,0 +1,8 @@
+{
+  "name": "fucking-crawler",
+  "version": "0.1.0",
+  "dependencies": {
+    "mysql-activerecord": "~0.8.3",
+    "crawler": "~0.2.5"
+  }
+}
